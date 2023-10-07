@@ -4,7 +4,7 @@ import Footer from '../../components/footer/footer'
 
 export default function About (){
     return(
-        <div>
+        <div className='bodyyy'>
          <NavBar/>
          <h1>THIS IS ABOUT PAGEs</h1>
          <Footer/>

@@ -4,7 +4,7 @@ import Footer from '../../components/footer/footer'
 
 export default function Home (){
     return(
-         <div>
+         <div className='bodyy'>
          <NavBar/>
          <h1>THIS IS HOME PAGE</h1>
          <Footer/>
